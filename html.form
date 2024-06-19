@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hello World</title>
+  <link href='/style.css' rel='stylesheet'>
+</head>
+<body>
+  <h1>Student Registration form</h1>
+  <header>
+
+
+  </header>
+  <hr>
+  <main>
+    <!-- <feild>
+      <legend>Personal Information</legend>
+    </feild> -->
+    <form action="https://example.com/submit" method="post">
+      <feild>
+        <legend>Personal Information</legend>
+      </feild>
+      <br>
+      <label for="First-name">First name: </label>
+      <input type="Fisrt-name" name="Fisrt name"><br><br>
+      <label for="Last name">Last name: </label>
+      <input type="Last name" name="Last name"><br><br>
+      <label for="Email">Email: </label>
+      <input type="Email" name="Email"><br><br>
+      <label for="Phone no">Phone no: </label>
+      <input type="Phone no" name="Phone no"><br><br>
+      <label for="Date of Birth">Date of Birth: </label>
+      <input type="Date of Birth" name = "dd/mm/yyyy"><br><br>
+
+    <hr>
+    <feild>
+      <legend>Address Information</legend>
+    </feild>
+    <br>
+    <level for="Address">Address: </level>
+    <input type="Address" name="Address"><br><br>
+    <level for="City">City: </level>
+    <input type="City" name="City"><br><br>
+    <level for="State"> State: </level>
+    <input type="State" name="State"><br><br>
+    <level for="ZIP Code">ZIP Code: </level>
+    <input type="ZIP Code" name="ZIP Code"><br><br>
+    <hr>
+    <feild>
+      <legend>Educational Information</legend>
+     
+    </feild>
+    <br>
+    <level for="High School">High School: </level>
+    <input type="High school" name="High school"><br><br>
+    <level for="GPA">GPA: </level>
+    <input type="GPA" name="GPA"><br><br>
+    <level for="Intended Major">Intended Major: </level>
+    <input type="Intended Major" name="Intended Major"><br><br>
+    <level for="Year of Graduation">Year of Graduation: </level>
+    <input type="Year of Graduation" name="Year of Graduation"><br><br>
+    <hr>
+    <feild>
+      <legend>Additional Information</legend>
+
+    </feild>
+    <br>
+
+
+    <header>
+      <level for="Interest and Hobbies">Interest and Hobbies: </level>
+    <input type="Interest and Hobbies" name="Interest and Hobbies"><br><br>
+    <level for="Additional Comments">Additional comments: </level>
+    <input type="Additional Comments" name="Additional Comments"><br><br>
+
+    </header>
+    <hr>
+
+    <!-- <level for="Interest and Hobbies">Interest and Hobbies: </level>
+    <input type="Interest and Hobbies" name="Interest and Hobbies"><br><br>
+    <level for="Additional Comments">Additional comments: </level>
+    <input type="Additional Comments" name="Additional Comments"><br><br> -->
+
+    <input type="Submit" value="Register">
+    </form>
+
+  
+    <!-- <input type="Sumit" value ="Resister"> -->
+   
+    
+  </main>
+  
+
+  <!-- <hr>
+  <feild>
+    <legend>Addresss Information</legend>
+
+  </feild>
+  <hr>
+  <feild>
+
+  </feild>
+  <hr>
+  <feild>
+
+  </feild>
+  <hr>
+  <feild>
+
+  </feild> -->
+  
+
+
+  
+</body> 
+</html>
