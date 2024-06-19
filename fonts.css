@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+
+        <link href="fonts.css" rel="stylesheet">
+        <style>
+                /* h1 {
+                        font-family: courier,Arial;
+                        font-size: 30px;
+                        font-style: italic;
+                        font-weight: bold;
+
+
+
+                }
+                p{
+
+                        font-size: 20px;
+                        font-style: oblique;
+                        font-variant: small-caps;
+                        font-weight: bold;
+                } -->*/
+                /*p.class{
+                        font-family: courier;
+                }*/
+                /*<!-- p{
+                        font-family: courier;
+                } -->*/
+                /* -->
+                 /*<!-- p{
+                        background-color: red;
+                 } -->*/
+                #my-id{
+                        color:green;
+                }
+
+        </style>
+</head>
+<body>
+        <!-- <h1>Hello how are you</h1>
+        <p class="class">This is text for para element</p>
+        <p>Hello , this is a p tag</
+                p> -->
+        <p id="my-id">This is a paragraph</p>
+</body>
+</html>
